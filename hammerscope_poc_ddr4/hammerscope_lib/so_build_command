@@ -1,0 +1,1 @@
+g++ -O -shared -std=c++1z -o hammer_scope.so -fPIC hammer.cc PageData.cc RowData.cc MemoryDB.cc HammerDB.cc main.cc
