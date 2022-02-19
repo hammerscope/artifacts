@@ -13,4 +13,4 @@ https://user-images.githubusercontent.com/98871752/152674737-49dfc98f-0add-47a1-
 [Demo of an end-to-end KASLR break using HammerScope on a DDR4 system](raw.githubusercontent.com/hammerscope/artifacts/main/KASLR_attack_using_hammerscope_DDR4.mp4)
 
 ## HammerScope KASLR POC source code
-- [KALSR POC Source Code](https://github.com/hammerscope/artifacts/tree/main/hammerscope_poc_ddr4)
+- [KASLR POC Source Code](https://github.com/hammerscope/artifacts/tree/main/hammerscope_poc_ddr4)
