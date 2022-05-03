@@ -1,5 +1,5 @@
-# Artifact Repository for Usenix Security '22 Winter Submission 2
-# HammerScope: A Refreshing Technique for Power Analysis
+# Artifact Repository for ACM CCS 2022b Submission 636
+# HammerScope: Using Rowhammer for Power Analysis
 ## website fingerprinting - datasets and models
 Our classification over real data can be viewed using the interactive Python notebook at the following link:
 - [CNN Model](https://colab.research.google.com/github/hammerscope/artifacts/blob/main/website_fingerprinting/convnet_website_fingerprinting.ipynb)
