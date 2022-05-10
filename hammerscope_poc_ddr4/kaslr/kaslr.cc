@@ -12,18 +12,12 @@
 #include <smmintrin.h>
 #include <string.h> 
 
-#define OK        ( 0)
-#define OPEN_FAIL (-1)
-#define READ_FAIL (-2)
-#define PARAM_ERR (-3)
-#define KASLR_OFFSET 0xffff98c7c0000000 
 #define DEFAULT_PHYSICAL_OFFSET (0xffffffff80800000ull)
 #define STEP_86_64 (0x200000ull)
 #define PAGE_SIZE (1<<12)
 #define TRY_KADDR (1<<9)
 #define TRY_KASLR_NUM   (1<<17)
 #define TEST_NUM_INDEX  (0x1FF)
-#define MB              (0x100000)
 #define PRE_IDLE        (0xDEADBEEF)
 #define AFTER_IDLE      (0xC001C0DE)
 
