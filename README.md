@@ -1,5 +1,10 @@
-# Artifact Repository for ACM CCS 2022b Submission 636
-# HammerScope: Using Rowhammer for Power Analysis
+# Artifact Repository for
+# HammerScope: Observing DRAM Power Consumption Using Rowhammer
+## Authors: Yaakov Cohen , Kevin Sam Tharayil , Arie Haenel , Daniel Genkin , Angelos D. Keromytis , Yossi Oren , Yuval Yarom
+## Venue: 29th ACM Conference on Computer and Communications Security (CCS), 2022
+
+## [Read the paper!](https://orenlab.sise.bgu.ac.il/p/HammerScope)
+
 ## website fingerprinting - datasets and models
 Our classification over real data can be viewed using the interactive Python notebook at the following link:
 - [CNN Model](https://colab.research.google.com/github/hammerscope/artifacts/blob/main/website_fingerprinting/convnet_website_fingerprinting.ipynb)
